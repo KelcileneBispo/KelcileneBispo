@@ -6,8 +6,8 @@
 - 😄 Pronouns: ela/dela
 <div>
   <a href="https://github.com/KelcileneBispo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KelcileneBispo&show_icons=true&theme=radical" />
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelcileneBispo&layout=compact&theme=radical" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KelcileneBispo&show_icons=true&theme=radical" />
+     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelcileneBispo&layout=compact&theme=radical" />
 </div>
 
 
