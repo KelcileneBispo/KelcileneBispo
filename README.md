@@ -4,6 +4,7 @@
 - 🌱 Atualmente estou estudando o desenvolvimento de aplicativos com as seguintes tecnologias: React Native, Node.js e MongoDB.
 - 📫 Contate-me pelo email: kelciparnaiba@gmail.com
 - 😄 Pronouns: ela/dela
+
 <div>
   <a href="https://github.com/KelcileneBispo">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KelcileneBispo&show_icons=true&theme=radical" />
